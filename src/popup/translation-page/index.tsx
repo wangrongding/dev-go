@@ -145,7 +145,7 @@ function TranslatePage() {
               )}
               {result?.web?.length > 1 && (
                 <div>
-                  <p className='text-yellow-300'>网咯释义：</p>
+                  <p className='text-yellow-300'>网络释义：</p>
                   {result.web.map((item) => (
                     <p key={item.key}>{`${item.key}： ${item.value.join()}`}</p>
                   ))}
