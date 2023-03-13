@@ -57,7 +57,7 @@
     "eslint-plugin-react": "^7.31.11",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.4",
-    "plasmo": "0.59.3",
+    "plasmo": "^0.67.3",
     "postcss": "^8.4.19",
     "prettier": "2.8.0",
     "prettier-plugin-tailwindcss": "^0.2.0",
