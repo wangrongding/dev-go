@@ -1,7 +1,7 @@
 {
   "name": "dev-go",
   "displayName": "DevGo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A super unbeatable browser extension plugin for developers.",
   "author": "荣顶",
   "scripts": {
@@ -35,9 +35,9 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
-    "@commitlint/config-conventional": "^17.3.0",
-    "@commitlint/cz-commitlint": "^17.3.0",
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
+    "@commitlint/cz-commitlint": "^17.8.1",
     "@plasmohq/prettier-plugin-sort-imports": "3.5.4",
     "@types/chrome": "0.0.198",
     "@types/node": "18.11.0",
@@ -57,7 +57,7 @@
     "eslint-plugin-react": "^7.31.11",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.4",
-    "plasmo": "^0.67.3",
+    "plasmo": "^0.84.0",
     "postcss": "^8.4.19",
     "prettier": "2.8.0",
     "prettier-plugin-tailwindcss": "^0.2.0",
